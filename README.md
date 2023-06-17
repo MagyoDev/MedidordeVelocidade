@@ -13,7 +13,7 @@ Este programa tem como objetivo determinar se um veículo recebeu uma multa e qu
 1. Certifique-se de ter Python instalado no seu sistema.
 2. Faça o download ou clone este repositório.
 3. Abra um terminal e navegue até o diretório onde o programa está localizado.
-4. Execute o seguinte comando: `python medidor_velocidade.py`
+4. Execute o seguinte comando: `python P3_VELOCIDADE.py`
 5. Digite a velocidade do veículo quando solicitado.
 6. O programa exibirá a mensagem correspondente ao nível da multa, se houver.
 
